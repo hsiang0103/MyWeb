@@ -1,0 +1,39 @@
+.block{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    border: solid black 2px; 
+}
+.unblock{
+    background: white;
+    width: 40px;
+    height: 40px;
+    border: solid black 2px; 
+}
+.table{
+    border-collapse: collapse;
+}
+.bound{
+    background: green;
+    width: 40px;
+    height: 40px;
+    border: solid black 2px; 
+}
+.visited{
+    background: yellow;
+    width: 40px;
+    height: 40px;
+    border: solid black 2px; 
+}
+.unvisited{
+    background: cyan;
+    width: 40px;
+    height: 40px;
+    border: solid black 2px; 
+}
+.wall{
+    background: purple;
+    width: 40px;
+    height: 40px;
+    border: solid black 2px; 
+}
